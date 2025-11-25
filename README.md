@@ -48,8 +48,3 @@ Using a VPN significantly improves privacy by encrypting internet traffic and hi
 
 ---
 
-## 📎 Files Included
-
-- Screenshots demonstrating:
-  - VPN connection status
-  - Changed IP verification
